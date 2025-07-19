@@ -1,72 +1,102 @@
-<h1 align="center">👩‍💻 Wafaa Mohammed | Full Stack .NET Developer @ DepI</h1>
-
+<!-- HEADER ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+.NET+Developer;Crafting+Modern+Web+Solutions;Passionate+About+Clean+Code&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Wafaa+Mohammed;Full+Stack+.NET+Developer;Lover+of+Clean+Architecture+%F0%9F%92%A1;Let's+Build+Something+Great+Together+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
----
-
-## 👋 Welcome!
-
-I'm **Wafaa Mohammed**, a passionate Full Stack .NET Developer at **DepI**, focused on building modern, secure, and scalable web applications using **ASP.NET Core**, **Blazor**, **Angular**, and **SQL Server**.
-
-💡 I thrive on turning complex problems into clean and elegant solutions. Always learning, always building!
+<h1 align="center">👩‍💻 Wafaa Mohammed</h1>
+<h3 align="center">.NET Full Stack Developer @ DepI | Focused on building elegant, scalable web apps 🚀</h3>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🧭 About Me
 
-### 🌐 Frontend
-![Blazor](https://img.shields.io/badge/-Blazor-512BD4?logo=blazor&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+🎓 I'm a passionate **Full Stack .NET Developer** at **DepI**, dedicated to crafting end-to-end software solutions with precision and creativity.  
+🧠 I specialize in designing **modern web applications** using **Blazor, Angular, ASP.NET Core, Web APIs**, and **SQL Server**.  
+💬 I believe in writing **clean code**, following **SOLID principles**, and building software that **scales and performs**.  
+🔍 Currently exploring **Microservices**, **CQRS**, and **Cloud-based .NET apps** using **Azure**.
+
+---
+
+## ⚙️ Tech Stack
+
+### 🖥️ Frontend
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### 🔧 Backend
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?logo=dotnet&logoColor=white)
-![Web API](https://img.shields.io/badge/-Web_API-0081CB?logo=visualstudio&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![Web API](https://img.shields.io/badge/Web_API-0081CB?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 ### 🗄️ Database & ORM
-![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/-Entity_Framework-512BD4?logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### ⚙️ Tools
-![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?logo=visualstudio&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
-
----
-
-## 🚀 Highlight Projects
-
-> **📌 Note**: Add links and visuals once your repos are ready.
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| Inventory Manager | System for managing products and suppliers with analytics dashboard | ASP.NET Core, EF, SQL Server, Blazor |
-| Task Tracker | A team-based kanban board app with real-time notifications | Web API, Angular, SignalR |
-| Blog CMS | Admin panel for managing dynamic blog content | .NET 7, Blazor, EF Core |
+### ⚒ Tools & Platforms
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white)
 
 ---
 
-## 🏅 Certifications & Achievements
+## 🚀 Featured Projects
 
-- ✅ Participated in advanced .NET training at DepI
-- ✅ Contributor to internal tools and systems at work
-- 📚 Always exploring new tools in the .NET ecosystem
+> ✅ Soon I will publish public repositories for my real-world projects — stay tuned!
+
+| 💻 Project | 📄 Description | 🧩 Tech Stack |
+|-----------|----------------|----------------|
+| **Inventory Manager** | Full-featured system for managing inventory, suppliers, and analytics dashboard | ASP.NET Core, EF, SQL Server, Blazor |
+| **Task Board** | Team-based Kanban-style task management with notifications | Web API, Angular, SignalR |
+| **Blog CMS** | Content management system with admin dashboard and dynamic components | .NET 7, EF Core, Blazor |
+
+---
+
+## 🏆 Achievements & Certifications
+
+- 🥇 Trained & Certified in **Advanced .NET Web Development**
+- 🔧 Developed internal tools at **DepI**
+- 🎯 Constantly exploring **cloud-native .NET** & **DevOps with GitHub Actions**
+- 📚 Working on personal open-source initiatives (to be published)
 
 ---
 
-## 📫 Let's Connect
+## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-Wafaa%20Mohammed-0077B5?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/fofamohammed)  
-📧 wafaamohammed843@gmail.com
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/fofamohammed">
+        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:wafaamohammed843@gmail.com">
+        <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/YourGitHubUsername">
+        <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-<p align="center">Made with ❤️ using ASP.NET Core, Blazor & SQL Server</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=monokai" />
+</p>
+
+<p align="center">
+  💻 Built with 💜 using .NET, SQL Server, and lots of ☕
+</p>
