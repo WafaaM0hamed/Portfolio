@@ -41,12 +41,12 @@
 
 ## 🚀 Featured Projects
 
-> ✅ Soon I will publish public repositories for my real-world projects — stay tuned!
+> ✅ Public repositories coming soon with full features, code & documentation.
 
 | 💻 Project | 📄 Description | 🧩 Tech Stack |
 |-----------|----------------|----------------|
 | **Inventory Manager** | Full-featured system for managing inventory, suppliers, and analytics dashboard | ASP.NET Core, EF, SQL Server, Blazor |
-| **Task Board** | Team-based Kanban-style task management with notifications | Web API, Angular, SignalR |
+| **Task Board** | Team-based Kanban-style task management with real-time notifications | Web API, Angular, SignalR |
 | **Blog CMS** | Content management system with admin dashboard and dynamic components | .NET 7, EF Core, Blazor |
 
 ---
@@ -56,7 +56,7 @@
 - 🥇 Trained & Certified in **Advanced .NET Web Development**
 - 🔧 Developed internal tools at **DepI**
 - 🎯 Constantly exploring **cloud-native .NET** & **DevOps with GitHub Actions**
-- 📚 Working on personal open-source initiatives (to be published)
+- 📚 Working on personal open-source initiatives
 
 ---
 
@@ -75,7 +75,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/YourGitHubUsername">
+      <a href="https://github.com/WafaaM0hamed">
         <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
       </a>
     </td>
@@ -87,14 +87,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WafaaM0hamed&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WafaaM0hamed&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=monokai" />
+  <img src="https://github-profile-trophy.vercel.app/?username=WafaaM0hamed&theme=monokai" />
 </p>
 
 <p align="center">
